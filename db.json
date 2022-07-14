@@ -9,23 +9,23 @@
             "conferidas": 10
         },
         "progressao": {
-            "porcentagem": 70
+            "porcentagem": 63
         },
         "tabela":[
           {
-             "ID_Setor": "teste",
-             "Nome": "teste",
-             "Data": "teste",
-             "idMotorista": "teste",
-             "Motorista": "teste",
-             "Entregas": "teste",
-             "Reversas": "teste",
-             "R$": "teste",
-             "Ult_Baixa": "teste",
-             "Realizadas": "teste",
-             "Insucesso": "teste",
-             "A_Realizar": "teste",
-             "Status": "teste"
+             "ID_Setor": "102",
+             "Nome": "Adao Silva",
+             "Data": "12/03/2019",
+             "idMotorista": "23",
+             "Motorista": "Celso junior",
+             "Entregas": "8",
+             "Reversas": "9",
+             "R$": "100",
+             "Ult_Baixa": "11/03/2019",
+             "Realizadas": "6",
+             "Insucesso": "2",
+             "A_Realizar": "7",
+             "Status": "2"
           }
         ]
     }
